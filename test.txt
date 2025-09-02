@@ -1,2 +1,2 @@
 welcome to devops-2515
-class time 7 am
+class time
